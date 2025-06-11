@@ -1,0 +1,21 @@
+{
+  "name": "DJ semen",
+  "codeName": "dj-semen",
+  "blackCards": [
+    {
+      "text": "&iquest; Por qu&eacute; cruz&oacute; la gallina la carretera?",
+      "pick": 1
+    },
+    {
+      "text": "&iexcl;Te gusta _&quest; &#161;Bueno, _&trade; es mejor&excl;",
+      "pick": 2
+    }
+  ],
+
+  "whiteCards": [
+    "S&iacute;",
+    "No",
+    "Puede"
+  ]
+
+}
