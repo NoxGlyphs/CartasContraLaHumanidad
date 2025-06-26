@@ -3,19 +3,75 @@
   "codeName": "dj-semen",
   "blackCards": [
     {
-      "text": "&iquest; Por qu&eacute; cruz&oacute; la gallina la carretera?",
+      "text": "&#64;meta AI que opinas de _&quest;",
       "pick": 1
     },
     {
-      "text": "&iexcl;Te gusta _&quest; &#161;Bueno, _&trade; es mejor&excl;",
+      "text": "Te gusta _&quest;",
+      "pick": 2
+    },
+    {
+      "text": "Y tu cual es el mejor phonk que has esuchado?",
+      "pick": 1
+    },
+    {
+      "text": "When te pillan con _ en _",
+      "pick": 2
+    },
+    {
+      "text": "_ cuando se encuentra con _",
       "pick": 2
     }
   ],
 
   "whiteCards": [
-    "S&iacute;",
-    "No",
-    "Puede"
+    "Sis",
+    "Non",
+    "Puede",
+    "Meta AI",
+    "David Bodón Camus",
+    "DJ Semen",
+    "DJ Semen y su semen",
+    "baterias a domicilio zaragoza",
+    "Nagisa Kaworu",
+    "el xokas deidad",
+    "phonk australiano",
+    "cp de Ibai con 9 años",
+    "soge haciendome un footjob por debajo de la mesa cosplayeando a heimerdinger y con los pies untados en mayonesa",
+    "jugar LOL",
+    "agarrarse el pene",
+    "la tecnologia alemana es la mejor",
+    "el dinosaurio con 500 dientes",
+    "Benzema",
+    "impregnar a Tahm Kench",
+    "como pongo huevos",
+    "cerveza de cancer terminal",
+    "voy a ser el proximo Steve Jobs",
+    "observen como la tecnologia esta avanzando",
+    "20.000 dolares",
+    "atrapando los pegotes del techo",
+    "la bateria de angel",
+    "tu, yo y dalas review, piensalo",
+    "muchisimo cp gratis",
+    "bebe pornero",
+    "George F.",
+    "ver un moro por la calle",
+    "fascinante pene pegajoso",
+    "renta?",
+    "pais libre, no pais libre de renta",
+    "jota joto",
+    "el gran pensador de nuestra epoca es Elmillor",
+    "experto en telecominicaciones",
+    "negrogamer",
+    "Michel ligando en el asindown",
+    "tocarse mientras estas en discord",
+    "leyendo literatura feminista a la luz de las velas",
+    "la torre de Sueps",
+    "el barrio de la luz",
+    "un ser de luz",
+    "un licenciado en astrofisica",
+    "la casa de Ruben",
+    "el Ganghes",
+    "comida india callejera"
   ]
-
 }
